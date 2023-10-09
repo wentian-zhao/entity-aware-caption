@@ -1,0 +1,1 @@
+mongod --bind_ip_all --dbpath /media/wentian/nvme1/mongodb --wiredTigerCacheSizeGB 10
